@@ -1,7 +1,7 @@
 ---
-title: Week 11 Exercises
-author: FIT2102 Programming Paradigms
-margin: 1inch
+title: Wordle
+author: Farnoush Mehraban
+
 ---
 
 ## Wordle
@@ -62,6 +62,3 @@ May the gravitational forces of clean code be ever in your favor as you venture 
 
 Safe travels.
 
-## Part 3 (Optional): Optional Hard Word Mode:
-
-Add a toggle to the HTML page, which will allow the user to toggle between hard mode and normal Wordle. This will require you passing the information over the POST request to Haskell and handling it appropriately! The UI should be handled with Observables too, relating back to your work from earlier in the semester.
